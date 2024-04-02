@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Chennai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-05T15:20:11.845Z",
+      "notes": "goof",
+      "position": {
+        "lat": "13.072455442073528",
+        "lng": "80.2760696411133"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-05T15:20:57.345Z",
+      "notes": "asd",
+      "position": {
+        "lat": "40.009340851001646",
+        "lng": "0.01802444458007813"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Puebla Tornesa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-05T15:23:41.783Z",
+      "notes": "sad",
+      "position": {
+        "lat": "40.085163945601664",
+        "lng": "-0.006694793701171876"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Ponneri",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-07T14:26:51.938Z",
+      "notes": "joi",
+      "position": {
+        "lat": "13.278208052511202",
+        "lng": "80.25838851928712"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-07T14:31:55.807Z",
+      "notes": "",
+      "position": {
+        "lat": "39.98448618198461",
+        "lng": "-0.006866455078125001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Ponneri",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-14T12:38:29.747Z",
+      "notes": "good",
+      "position": {
+        "lat": "13.262502754851358",
+        "lng": "80.25890350341798"
+      },
+      "id": 98443203
+    }
+  ]
+}
